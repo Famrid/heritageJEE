@@ -2,9 +2,9 @@ import Animal.Animal;
 import Animal.Hippo;
 import Animal.Lion;
 import Animal.Wolf;
-import Animal.Dog;
 import Animal.Pet;
 import Animal.Cat;
+import Animal.Dog;
 
 import java.util.ArrayList;
 import java.util.List;
